@@ -1,0 +1,48 @@
+        h1{
+                color:rgb(107, 0, 128)
+            }
+         
+            p{
+                color:black;
+            }
+            ul li{
+                list-style:none;
+                display: initial;
+                color:crimson;
+                border:3px doted darkblue;
+                margin: 6px;
+
+            }
+            ol li{
+                list-style:none;
+                float:right;
+                border:3px doted black;
+                margin: 5px;
+                
+            }
+            image{
+                width:100%
+                
+            }
+            body {
+                background-image:url(https://images.unsplash.com/photo-1577017040065-650ee4d43339?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80);
+                background-size: cover;
+            
+            }
+
+
+    
+    table{
+        border: 1px double;
+    }
+
+    tr,td,th {
+        padding: 20px;
+        border: 1p;
+        border: 1px double pink;
+    }
+    nav{
+        float: right;
+        display: flex;
+    }
+    
